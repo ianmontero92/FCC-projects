@@ -1,4 +1,4 @@
-# tangina_repo
+# FCC
 Please feel free to use my file for your projects
 
-Still a newbie here on github and trying to familiarize its functionalities so please bear with me
+Lies here are my personal projects for free code camp and php applications from thenewboston
